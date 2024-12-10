@@ -5,29 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28ea887a-3dcb-4ce0-9a58-213a2cd52349" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Eng_Data_4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_first_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_fourth_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_second task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_third_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/1-2/item.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/1-2/subitem.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/3/_part_1.text" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/3/_part_2.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/4/_product_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/4/_update_data.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_task_filtered_sorted_properties.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_task_sorted_properties.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/show_pickle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third_task_filtered.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third_task_sorted.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/5/AllMoviesDetails_filtred.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/5/Movie_cleaned.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fourth.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie_analysis.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_fifth_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_fifth_task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +25,17 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2pwIup3CPmn7LodZBtvRmtS44qE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -63,7 +52,7 @@
     "Python.4_third_task.executor": "Run",
     "Python.show_pickle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "bea04639",
     "last_opened_file_path": "C:/Users/novik/PycharmProjects/Eng_Data_4"
   }
 }]]></component>
