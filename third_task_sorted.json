@@ -1,0 +1,236 @@
+[
+    {
+        "id": 590,
+        "artist": "Lil Nas X",
+        "song": "Old Town Road",
+        "duration_ms": 113000,
+        "year": 2019,
+        "tempo": 135.998,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1794,
+        "artist": "Lil Nas X",
+        "song": "Panini",
+        "duration_ms": 114893,
+        "year": 2019,
+        "tempo": 153.848,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 893,
+        "artist": "XXXTENTACION",
+        "song": "Jocelyn Flores",
+        "duration_ms": 119133,
+        "year": 2017,
+        "tempo": 134.021,
+        "genre": "hip hop"
+    },
+    {
+        "id": 1468,
+        "artist": "XXXTENTACION",
+        "song": "changes",
+        "duration_ms": 121886,
+        "year": 2018,
+        "tempo": 64.934,
+        "genre": "hip hop"
+    },
+    {
+        "id": 1642,
+        "artist": "Lil Pump",
+        "song": "Gucci Gang",
+        "duration_ms": 124055,
+        "year": 2017,
+        "tempo": 119.889,
+        "genre": "hip hop"
+    },
+    {
+        "id": 1743,
+        "artist": "Saweetie",
+        "song": "My Type",
+        "duration_ms": 126446,
+        "year": 2019,
+        "tempo": 105.038,
+        "genre": "hip hop, pop, R&B"
+    },
+    {
+        "id": 1704,
+        "artist": "The xx",
+        "song": "Intro",
+        "duration_ms": 127920,
+        "year": 2009,
+        "tempo": 100.363,
+        "genre": "rock"
+    },
+    {
+        "id": 1442,
+        "artist": "Blueface",
+        "song": "Thotiana",
+        "duration_ms": 129264,
+        "year": 2018,
+        "tempo": 104.025,
+        "genre": "hip hop"
+    },
+    {
+        "id": 639,
+        "artist": "Bazzi",
+        "song": "Mine",
+        "duration_ms": 131064,
+        "year": 2018,
+        "tempo": 142.929,
+        "genre": "pop, Dance/Electronic"
+    },
+    {
+        "id": 1023,
+        "artist": "iann dior",
+        "song": "emotions",
+        "duration_ms": 131213,
+        "year": 2019,
+        "tempo": 80.512,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 407,
+        "artist": "Lil Tecca",
+        "song": "Ransom",
+        "duration_ms": 131240,
+        "year": 2019,
+        "tempo": 179.974,
+        "genre": "hip hop"
+    },
+    {
+        "id": 982,
+        "artist": "XXXTENTACION",
+        "song": "Moonlight",
+        "duration_ms": 135090,
+        "year": 2018,
+        "tempo": 128.009,
+        "genre": "hip hop"
+    },
+    {
+        "id": 1721,
+        "artist": "iann dior",
+        "song": "gone girl",
+        "duration_ms": 136568,
+        "year": 2019,
+        "tempo": 94.956,
+        "genre": "hip hop, pop"
+    },
+    {
+        "id": 1217,
+        "artist": "Lost Frequencies",
+        "song": "Are You With Me - Radio Edit",
+        "duration_ms": 138842,
+        "year": 2014,
+        "tempo": 121.03,
+        "genre": "pop, Dance/Electronic"
+    },
+    {
+        "id": 449,
+        "artist": "Lil Baby",
+        "song": "Yes Indeed",
+        "duration_ms": 142273,
+        "year": 2018,
+        "tempo": 119.957,
+        "genre": "hip hop"
+    },
+    {
+        "id": 1005,
+        "artist": "Zay Hilfigerrr",
+        "song": "Juju on That Beat (TZ Anthem)",
+        "duration_ms": 144244,
+        "year": 2016,
+        "tempo": 160.517,
+        "genre": "set()"
+    },
+    {
+        "id": 620,
+        "artist": "Basshunter",
+        "song": "Now You're Gone - Video Edit",
+        "duration_ms": 148186,
+        "year": 2008,
+        "tempo": 147.99,
+        "genre": "pop"
+    },
+    {
+        "id": 1819,
+        "artist": "Post Malone",
+        "song": "Wow.",
+        "duration_ms": 149546,
+        "year": 2019,
+        "tempo": 99.96,
+        "genre": "hip hop"
+    },
+    {
+        "id": 1672,
+        "artist": "Storm Queen",
+        "song": "Look Right Through - MK Vocal Edit",
+        "duration_ms": 150400,
+        "year": 2014,
+        "tempo": 119.995,
+        "genre": "Dance/Electronic"
+    },
+    {
+        "id": 749,
+        "artist": "Fedde Le Grand",
+        "song": "Put Your Hands Up for Detroit - Radio Edit",
+        "duration_ms": 150533,
+        "year": 2015,
+        "tempo": 127.919,
+        "genre": "pop, Dance/Electronic"
+    },
+    {
+        "id": 931,
+        "artist": "Fedde Le Grand",
+        "song": "Put Your Hands Up For Detroit - Radio Edit",
+        "duration_ms": 150533,
+        "year": 2015,
+        "tempo": 127.995,
+        "genre": "pop, Dance/Electronic"
+    },
+    {
+        "id": 1381,
+        "artist": "Sandi Thom",
+        "song": "I Wish I Was a Punk Rocker (with Flowers in My Hair)",
+        "duration_ms": 151640,
+        "year": 2006,
+        "tempo": 108.102,
+        "genre": "World/Traditional, pop"
+    },
+    {
+        "id": 663,
+        "artist": "Ida Corr",
+        "song": "Let Me Think About It",
+        "duration_ms": 151973,
+        "year": 2012,
+        "tempo": 129.026,
+        "genre": "set()"
+    },
+    {
+        "id": 465,
+        "artist": "Camille Jones",
+        "song": "The Creeps - Fedde Le Grand Radio Mix",
+        "duration_ms": 152333,
+        "year": 2006,
+        "tempo": 127.894,
+        "genre": "set()"
+    },
+    {
+        "id": 744,
+        "artist": "MEDUZA",
+        "song": "Piece Of Your Heart",
+        "duration_ms": 152913,
+        "year": 2019,
+        "tempo": 124.08,
+        "genre": "pop, Dance/Electronic"
+    },
+    {
+        "id": 4,
+        "artist": "Ashley O",
+        "song": "On A Roll",
+        "duration_ms": 154447,
+        "year": 2019,
+        "tempo": 125.011,
+        "genre": "set()"
+    }
+]

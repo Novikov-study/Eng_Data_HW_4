@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28ea887a-3dcb-4ce0-9a58-213a2cd52349" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Eng_Data_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_first_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_fourth_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_second task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_third_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/1-2/item.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/1-2/subitem.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/3/_part_1.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/3/_part_2.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/4/_product_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/4/_update_data.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_task_filtered_sorted_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_task_sorted_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/show_pickle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_task_filtered.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_task_sorted.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2pwIup3CPmn7LodZBtvRmtS44qE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.4_first_task.executor": "Run",
+    "Python.4_first_task_v2.executor": "Run",
+    "Python.4_fourth_task.executor": "Run",
+    "Python.4_fourth_task_v2.executor": "Run",
+    "Python.4_second task.executor": "Run",
+    "Python.4_third_task.executor": "Run",
+    "Python.show_pickle.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/novik/PycharmProjects/Eng_Data_4"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\novik\PycharmProjects\Eng_Data_4" />
+      <recent name="C:\Users\novik\PycharmProjects\Eng_Data_4\data" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28ea887a-3dcb-4ce0-9a58-213a2cd52349" name="Changes" comment="" />
+      <created>1733670935257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733670935257</updated>
+    </task>
+    <servers />
+  </component>
+</project>

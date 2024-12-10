@@ -1,0 +1,167 @@
+{
+    "top_10_updated_products": [
+        {
+            "name": "Canon PIXMA",
+            "updates": 32
+        },
+        {
+            "name": "superb toothpaste",
+            "updates": 28
+        },
+        {
+            "name": "exquisite shampoo",
+            "updates": 28
+        },
+        {
+            "name": "attractive eye cream",
+            "updates": 26
+        },
+        {
+            "name": "pretty body wash",
+            "updates": 22
+        },
+        {
+            "name": "trendy deodorant",
+            "updates": 20
+        },
+        {
+            "name": "sublime hair mask",
+            "updates": 20
+        },
+        {
+            "name": "delightful wallpaper",
+            "updates": 18
+        },
+        {
+            "name": "exquisite serum",
+            "updates": 18
+        },
+        {
+            "name": "beautiful blackberry",
+            "updates": 16
+        }
+    ],
+    "price_analysis": [
+        {
+            "category": "Unknown",
+            "total_price": 5.486624000000001,
+            "min_price": 1.3716560000000002,
+            "max_price": 1.3716560000000002,
+            "avg_price": 1.3716560000000002,
+            "product_count": 4
+        },
+        {
+            "category": "cosmetics",
+            "total_price": 1511.2298421139405,
+            "min_price": 1.0,
+            "max_price": 127.46879999999999,
+            "avg_price": 32.85282265465088,
+            "product_count": 46
+        },
+        {
+            "category": "fruit",
+            "total_price": 960.6464679296,
+            "min_price": 1.0,
+            "max_price": 99.34267600000001,
+            "avg_price": 26.684624109155557,
+            "product_count": 36
+        },
+        {
+            "category": "tools",
+            "total_price": 2344.149602,
+            "min_price": 1.0,
+            "max_price": 100.30900000000001,
+            "avg_price": 46.88299204,
+            "product_count": 50
+        }
+    ],
+    "quantity_analysis": [
+        {
+            "category": "Unknown",
+            "total_quantity": 740,
+            "min_quantity": 185,
+            "max_quantity": 185,
+            "avg_quantity": 185.0,
+            "product_count": 4
+        },
+        {
+            "category": "cosmetics",
+            "total_quantity": 53672,
+            "min_quantity": 526,
+            "max_quantity": 2392,
+            "avg_quantity": 1166.7826086956522,
+            "product_count": 46
+        },
+        {
+            "category": "fruit",
+            "total_quantity": 31700,
+            "min_quantity": 559,
+            "max_quantity": 1643,
+            "avg_quantity": 880.5555555555555,
+            "product_count": 36
+        },
+        {
+            "category": "tools",
+            "total_quantity": 45368,
+            "min_quantity": 475,
+            "max_quantity": 1581,
+            "avg_quantity": 907.36,
+            "product_count": 50
+        }
+    ],
+    "avg_price_and_high_price_products": {
+        "avg_price": 35.45229805914368,
+        "products": [
+            {
+                "name": "trendy raspberry",
+                "updates": 14,
+                "price": 72.435
+            },
+            {
+                "name": "delightful baseboard",
+                "updates": 14,
+                "price": 100.30900000000001
+            },
+            {
+                "name": "elegant shampoo",
+                "updates": 12,
+                "price": 98.13598105697032
+            },
+            {
+                "name": "marvelous electrical",
+                "updates": 8,
+                "price": 90.335809
+            },
+            {
+                "name": "tasteful saw",
+                "updates": 8,
+                "price": 59.581148
+            },
+            {
+                "name": "amazing face wash",
+                "updates": 8,
+                "price": 127.46879999999999
+            },
+            {
+                "name": "luxurious insulation",
+                "updates": 8,
+                "price": 44.87
+            },
+            {
+                "name": "trendy raspberry",
+                "updates": 7,
+                "price": 72.435
+            },
+            {
+                "name": "delightful baseboard",
+                "updates": 7,
+                "price": 100.30900000000001
+            },
+            {
+                "name": "magnificent baseboard",
+                "updates": 6,
+                "price": 80.35882400000001
+            }
+        ]
+    }
+}
